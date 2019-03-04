@@ -1,4 +1,3 @@
-# Gisela Vallejo
 I'm a computational linguist, who likes to explore around with deep learning. I love the idea of combining languages and computer science, therefore nlp is one of my passions.
 
 ### Work experience
@@ -17,5 +16,5 @@ Before UKP, I worked for Novatec GmbH, a consultant company with headquarters in
 ### Publications
 <ul>
  	<li><a href="https://arxiv.org/pdf/1902.11060.pdf">Context-aware Neural-based Dialog Act Classification on Automatically Generated Transcriptions</a>, Daniel Ortega, Chia-Yu Li, <i>Gisela Vallejo</i>, Pavel Denisov, Thang Vu, In Proceedings of International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.</li>
- 	<li><a href="https://bitbucket.org/IMS_CREW/multilingual-emotion-classification-with-a-multi-class/raw/e4600949506e1acac3b15b7f8079f2661c964a83/EmotionClassificationTaCoS.pdf">One Model, Different Languages: Twitter Emotion Classification using Distant Supervision</a>Jan Weßling, <i>Gisela Vallejo</i>, In Proceedings of Tagung der Computerlinguistik Studierenden (TaCoS), 2017</li>
+ 	<li><a href="https://bitbucket.org/IMS_CREW/multilingual-emotion-classification-with-a-multi-class/raw/e4600949506e1acac3b15b7f8079f2661c964a83/EmotionClassificationTaCoS.pdf">One Model, Different Languages: Twitter Emotion Classification using Distant Supervision</a>, Jan Weßling, <i>Gisela Vallejo</i>, In Proceedings of Tagung der Computerlinguistik Studierenden (TaCoS), 2017</li>
 </ul>
