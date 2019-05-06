@@ -3,7 +3,7 @@ I'm a computational linguist, who likes to explore around with deep learning and
 ### Work experience
 Currently, I'm working as a research associate for the UKP Lab at TU Darmstadt. 
 
-Before UKP, I worked for Novatec GmbH, a consultant company with headquarters in Leinfelden Germany. There, I was a machine learning consultant, prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Boeblingen Germany.
+Before UKP, I worked for Novatec GmbH, a consultant company with headquarters in Leinfelden Germany. There, I was a machine learning consultant, prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Boeblingen Germany. For more details see my cv <a href="https://github.com/gisvl/gisvl.github.io/blob/master/cv_042019.pdf">here</a>.
 
 ### News
 <ul>
@@ -18,5 +18,5 @@ Before UKP, I worked for Novatec GmbH, a consultant company with headquarters in
 <ul>
   <li>Paul Reisert, <i>Gisela Vallejo</i>, Naoya Inoue, Iryna Gurevych, and Kentaro Inui. <b>An Annotation Protocol for Collecting User-Generated Counter-Arguments using Crowdsourcing</b>. To appear in Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED), pp. –, June 2019.</li>
  	<li><a href="https://arxiv.org/pdf/1902.11060.pdf">Context-aware Neural-based Dialog Act Classification on Automatically Generated Transcriptions</a>, Daniel Ortega, Chia-Yu Li, <i>Gisela Vallejo</i>, Pavel Denisov, Thang Vu, In Proceedings of International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.</li>
- 	<li><a href="https://bitbucket.org/IMS_CREW/multilingual-emotion-classification-with-a-multi-class/raw/e4600949506e1acac3b15b7f8079f2661c964a83/EmotionClassificationTaCoS.pdf">One Model, Different Languages: Twitter Emotion Classification using Distant Supervision</a>, Jan Weßling, <i>Gisela Vallejo</i>, In Proceedings of Tagung der Computerlinguistik Studierenden (TaCoS), 2017.</li>
+ 	<li><a href="https://bitbucket.org/IMS_CREW/multilingual-emotion-classification-with-a-multi-class/src/master/EmotionClassification.pdf">One Model, Different Languages: Twitter Emotion Classification using Distant Supervision</a>, Jan Weßling, <i>Gisela Vallejo</i>, In Proceedings of Tagung der Computerlinguistik Studierenden (TaCoS), 2017.</li>
 </ul>
