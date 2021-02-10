@@ -1,9 +1,9 @@
 I'm a computational linguist, who likes to explore around with deep learning and also to hang around bouldering or just discussing about general things. I love the idea of combining languages and computer science, therefore nlp is one of my passions.
 
 ### Work experience
-Currently, I'm working as a research associate for the UKP Lab at TU Darmstadt. My main interest is fact checking and its automation. I'm also interested on information validation and its pipeline in general.
+My main interest is fairness for automatic fact checking (afc). I'm also interested on information validation and its pipeline in general. Dialogue systems will be probably my first love for ever and I like to keep track in that field too. 
 
-Before UKP, I worked for Novatec GmbH, a consultant company with headquarters in Leinfelden Germany. There, I was a machine learning consultant, prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Boeblingen Germany. For more details see my cv <a href="https://github.com/gisvl/gisvl.github.io/blob/master/CV_042020.pdf">here</a>.
+I worked as researcher at UKP at the TU Darmstadt. Before that I was a machine learning consultant at Novatec GmbH, a company with headquarters in Leinfelden Germany. There, I worked on prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Boeblingen Germany. For more details see my cv <a href="https://github.com/gisvl/gisvl.github.io/blob/master/CV_042020.pdf">here</a>.
 
 ### News
 <ul>
