@@ -3,7 +3,7 @@ I'm a PhD candidate at [UniMelb](https://cis.unimelb.edu.au/research/artificial-
 ### Work experience
 My (current) main interest is fairness in news data. But I like to keep an eye in many other topics like: automatic fact checking (afc), question answering, generation. Dialogue systems will be probably my first love for ever. 
 
-Before my PhD, I worked as a researcher at UKP at the TU Darmstadt. Previously, I was a machine learning consultant at Novatec GmbH, a company with headquarters in Leinfelden Germany. There, I worked on prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Boeblingen Germany. For more details see my cv [here](CV_042020.pdf).
+Before my PhD, I worked as a researcher at UKP at the TU Darmstadt. Previously, I was a machine learning consultant at Novatec GmbH, a company with headquarters in Leinfelden Germany. There, I worked on prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Boeblingen Germany. For more details see my cv [here](CV_102023.pdf).
 
 ### News
 <ul>
