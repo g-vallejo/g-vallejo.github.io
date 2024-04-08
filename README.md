@@ -1,9 +1,9 @@
-I'm a PhD candidate at [UniMelb](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing), very fortunate to be advised by [Lea Frermann](https://www.frermann.de/) and [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/index.html). My thesis focuses on exploring ways to automatically find biases in news articles. I consider myself a computational linguist, who likes to dance, read and discuss about general things. I love the idea of combining languages and computer science, therefore NLP is one of my passions.
+I'm a PhD candidate at [UniMelb](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing), very fortunate to be advised by [Lea Frermann](https://www.frermann.de/) and [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/index.html). My thesis focuses on exploring ways to automatically find biases in the narrative of news articles. I consider myself a computational linguist, who likes to dance, read and discuss about general things. I love the idea of combining languages and computer science, therefore NLP is one of my passions.
 
 ### Work experience
 My (current) main interest is fairness in news data. But I like to keep an eye in many other topics like: automatic fact checking (afc), question answering, generation. Dialogue systems will be probably my first love for ever. 
 
-Before my PhD, I worked as a researcher at UKP at the TU Darmstadt. Prior to that, I was a machine learning consultant at Novatec GmbH, a company with headquarters in Leinfelden Germany. There, I worked on prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Böblingen Germany. For more details see my cv [here](CV_102023.pdf).
+Before my PhD, I worked as a researcher in the UKP Lab at the TU Darmstadt. Prior to that, I was a machine learning consultant at Novatec GmbH, a company with headquarters in Leinfelden Germany. There, I worked on prototyping solutions for different clients and helping with the design of workshops and lectures about machine learning. Previous to that I interned for several companies, including Mercedes Benz in Germany and in CA, USA, Sony Deutschland GmbH and Compart AG in Böblingen Germany. For more details see my cv [here](CV_042024.pdf).
 
 ### News
 <ul>
@@ -19,7 +19,7 @@ Before my PhD, I worked as a researcher at UKP at the TU Darmstadt. Prior to tha
 </ul>
 
 ### Service
-* Co-Chair at [SRW ACL 2023](https://acl2023-srw.github.io/) 
+* Co-Chair at [SRW ACL 2023](https://acl2023-srw.github.io/) with [Vishakh Padmakumar](https://vishakhpk.github.io/) and [Yao Fu](https://franxyao.github.io/)
 * Zoom Chair at [EACL 2021](https://2021.eacl.org/)
 * Zoom Co-Chair at [EMNLP 2020](https://2020.emnlp.org/)
 
@@ -29,7 +29,7 @@ Before my PhD, I worked as a researcher at UKP at the TU Darmstadt. Prior to tha
 
 ### Publications
 <ul>
-  <li><a href="https://arxiv.org/pdf/2104.00640.pdf">AMBIFC: Fact-Checking Ambiguous Claims with Evidence</a>, Max Glockner, Ieva Staliūnaitė, James Thorne, <b>Gisela Vallejo</b>, Andreas Vlachos, Iryna Gurevych. In: Transactions of the Association for Computational Linguistics (TACL),(to appear), 2023.</li>
+  <li><a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00629/119057/AmbiFC-Fact-Checking-Ambiguous-Claims-with">AMBIFC: Fact-Checking Ambiguous Claims with Evidence</a>, Max Glockner, Ieva Staliūnaitė, James Thorne, <b>Gisela Vallejo</b>, Andreas Vlachos, Iryna Gurevych. In: Transactions of the Association for Computational Linguistics (TACL),(presented at EMNLP), 2023.</li>
   <li><a href="https://aclanthology.org/2022.alta-1.18.pdf">Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics</a>, <b>Gisela Vallejo</b>, Timothy Baldwin, Lea Frermann. In Proceedings of The 20th Annual Workshop of the Australasian Language Technology Association (ALTA), December 2022.</li>
   <li><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-23207-8.pdf">An Annotation Protocol for Collecting User-Generated Counter-Arguments using Crowdsourcing</a>, Paul Reisert, <b>Gisela Vallejo</b>, Naoya Inoue, Iryna Gurevych, and Kentaro Inui. In Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED), June 2019.</li>
  	<li><a href="https://arxiv.org/pdf/1902.11060.pdf">Context-aware Neural-based Dialog Act Classification on Automatically Generated Transcriptions</a>, Daniel Ortega, Chia-Yu Li, <b>Gisela Vallejo</b>, Pavel Denisov, Thang Vu. In Proceedings of International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.</li>
